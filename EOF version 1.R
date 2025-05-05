@@ -12,7 +12,7 @@ library(ggplot2)
 library(maps)
 library(gstat) 
 library(sp)
-library(raster)
+library(raster) 
 
 library(rasterVis)
 
