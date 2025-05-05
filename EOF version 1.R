@@ -10,7 +10,7 @@ ZAB <- read.csv("~/Mirror/Bayesian/Bayesian Project/ZAB old.csv")
 library(dplyr)
 library(ggplot2)
 library(maps)
-library(gstat)
+library(gstat) 
 library(sp)
 library(raster)
 
